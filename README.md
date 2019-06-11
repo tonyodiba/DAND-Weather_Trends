@@ -1,7 +1,9 @@
 ## **Weather Trends: 1st Project for Udacity Data Analyst Nanodegree(DAND)**
+
 This project was completed as part of the course requirements of Udacity's Data Analyst Nanodegree certification.
+
 ***
-### Exploring weather Trends:** 
+### Exploring weather Trends
 This project explores the similarities and differences between global temperature trends  and temperature trends in the closest big city to my location which was Abuja, Nigeria, from the 1700s to 2000s. 
 ***
 ### Outline
@@ -18,7 +20,7 @@ This project explores the similarities and differences between global temperatur
 ### Statistical Analysis
 * Moving average
 * Correlation
-* variance discussion
+* Variance discussion
 * Linear regression
 ***
 ### Technologies Used
